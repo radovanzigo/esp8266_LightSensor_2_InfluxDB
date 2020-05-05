@@ -1,2 +1,2 @@
-# esp8266_LightSensor_2_grafana
-Python esp8266_LightSensor_2_grafana
+# esp8266_LightSensor_2_InfluxDB
+Python esp8266_LightSensor_2_InfluxDB
